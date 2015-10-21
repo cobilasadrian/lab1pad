@@ -12,5 +12,17 @@
     <artifactId>Broker</artifactId>
     <version>0.1</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.codehaus.jettison</groupId>
+            <artifactId>jettison</artifactId>
+            <version>1.3.7</version>
+        </dependency>
+        <dependency>
+            <groupId>com.thoughtworks.xstream</groupId>
+            <artifactId>xstream</artifactId>
+            <version>1.4.8</version>
+        </dependency>
+    </dependencies>
 
 </project>

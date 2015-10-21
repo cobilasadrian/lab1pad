@@ -25,6 +25,7 @@
         <module name="Broker" />
         <module name="Receiver" />
         <module name="Sender" />
+        <module name="TranslateService" />
         <module name="TransportService" />
       </profile>
     </annotationProcessing>
